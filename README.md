@@ -1,4 +1,4 @@
-# BigBasketCartPrediction
+# Big-Basket-Cart-Prediction-Apyori
 Dataset Consists of Various list of items bought from Big Basket ,which items are bought together are predicted using Apriori Algorithm in Association Rule Based Learning.
 # Dataset: Association Rule Learning on Big Basket Shopping List
 This dataset consists of a collection of shopping lists from Big Basket, an online grocery store. Each row in the dataset represents a single shopping list consisting of various items bought together. The dataset has been preprocessed and cleaned to remove any duplicates or missing values.
